@@ -1,0 +1,1 @@
+APROVADO: 50 verifica��es da interface, acessibilidade e persist�ncia.

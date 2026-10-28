@@ -1,0 +1,2 @@
+javac 23.0.2
+APROVADO: --release 17 -Xlint:all -Werror, sem avisos.

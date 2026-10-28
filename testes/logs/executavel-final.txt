@@ -1,0 +1,2 @@
+APROVADO: 70 verifica��es de valida��o, CSV e tabela.
+APROVADO: 50 verifica��es da interface, acessibilidade e persist�ncia.
